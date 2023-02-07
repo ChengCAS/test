@@ -1,2 +1,2 @@
 # test
-github功能测
+github功能测试
